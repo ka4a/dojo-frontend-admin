@@ -1,0 +1,43 @@
+@import "@reustleco/dojo-admin-brand/paragon/variables.scss";
+
+.course-staff {
+  &__search {
+    display: flex;
+    margin-left: 8px;
+    height: 44px;
+    width: 100%;
+    max-width: 528px;
+  }
+
+  &-filters {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+
+    & > :first-child {
+      margin-right: 8px;
+    }
+
+    &__clear.btn {
+      padding: 0;
+      font-size: 14px;
+      padding: 0 4px;
+    }
+
+    .form-check-label {
+      cursor: pointer;
+    }
+  }
+
+  &__control-bar {
+    margin: 30px 12px;
+
+    &.active {
+      margin-bottom: 12px;
+    }
+  }
+
+  &__checkbox {
+    pointer-events: none;
+  }
+}

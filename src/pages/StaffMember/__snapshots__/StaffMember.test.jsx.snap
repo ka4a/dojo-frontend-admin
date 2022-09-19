@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StaffMember it should render the expected HTML 1`] = `"<div class=\\"staff-member\\"><div class=\\"page-title-background d-flex align-items-center justify-content-between px-2.5\\"><div class=\\"align-items-center\\"><div class=\\"page-title\\">Staff Member</div><div><nav aria-label=\\"breadcrumb\\" class=\\"pgn__breadcrumb pgn__breadcrumb-light\\"><ol class=\\"list-inline d-flex align-items-center\\"><li class=\\"list-inline-item\\"><a class=\\"link-muted\\" href=\\"/coursestaff\\">Course Staff Management</a></li></ol></nav></div></div><a href=\\"http://localhost:18000/admin/auth/user/undefined/change/\\" class=\\"btn btn-primary\\">Edit User</a></div><div class=\\"base-layout\\"></div></div>"`;

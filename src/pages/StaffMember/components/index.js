@@ -1,0 +1,1 @@
+export { CourseNameCell } from './CourseNameCell';

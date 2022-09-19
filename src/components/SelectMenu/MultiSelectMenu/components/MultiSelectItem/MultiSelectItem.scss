@@ -1,0 +1,13 @@
+.multiselect-item {
+  &.dropdown-item {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .pgn__form-checkbox {
+    pointer-events: none;
+    padding-left: 0px;
+  }
+}

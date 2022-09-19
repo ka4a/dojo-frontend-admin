@@ -1,0 +1,12 @@
+@import "@reustleco/dojo-admin-brand/paragon/variables.scss";
+
+.control-bar {
+  display: flex;
+  align-items: baseline;
+  margin-top: 22px;
+
+  &__title {
+    font-size: 22px;
+    margin-left: 24px;
+  }
+}

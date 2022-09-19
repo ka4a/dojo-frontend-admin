@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColumnTable it should render the expected HTML 1`] = `"<section><div class=\\"mb-4\\"><h4>test title</h4><div class=\\"column-table__row\\"><div class=\\"\\"><span class=\\"small\\">test subtitle</span><br><span class=\\"text-gray-500 x-small font-weight-bold\\">test value</span></div></div></div></section>"`;

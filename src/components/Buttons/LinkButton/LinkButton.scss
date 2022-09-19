@@ -1,0 +1,9 @@
+.btn.link-button {
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &:focus-visible {
+    outline: none;
+  }
+}

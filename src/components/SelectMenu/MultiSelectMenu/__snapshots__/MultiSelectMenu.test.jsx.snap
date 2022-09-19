@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MultiSelectMenu it should render the expected HTML 1`] = `"<div data-testid=\\"dropdown\\" class=\\"dropdown\\"><button aria-haspopup=\\"true\\" aria-expanded=\\"false\\" id=\\"dropdown-basic-4\\" type=\\"button\\" class=\\"dropdown-toggle btn btn-outline-extra\\">title</button></div>"`;

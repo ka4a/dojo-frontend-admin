@@ -1,0 +1,12 @@
+.search {
+  width: 100%;
+  height: 100%;
+
+  .pgn__form-control-decorator-trailing {
+    pointer-events: all;
+
+    .pgn__icon {
+      cursor: pointer;
+    }
+  }
+}
